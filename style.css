@@ -90,8 +90,9 @@
 
     display: flex;
 
-    margin-left: 83px;
+    margin-left: 62px;
     margin-right: 65px;
+
 
 
 
@@ -225,4 +226,149 @@
 
 
 
+}
+
+.gallery {
+
+    background-color: #609513 !important;
+
+    color: white;
+    padding: 5px;
+
+
+
+
+}
+
+
+.web-mail {
+    margin-left: 65px;
+}
+
+.button-sokol {
+
+    background-color: #a2a2a2;
+    width: 200px;
+    padding: 2px;
+    margin-left: 75px;
+}
+
+
+.Golden {
+
+    background-color: #609513 !important;
+
+    width: 200px;
+    padding: 2px;
+    margin-left: 75px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.side-bar {
+
+    font-size: 12px;
+    background-color: #a2a2a2;
+    width: 200px;
+    padding: 2px;
+    margin-left: 75px;
+
+
+
+}
+
+.side-bar li a {
+    color: inherit;
+    color: green;
+
+    text-decoration: none;
+
+}
+
+.side-bar li a:hover {
+
+    background-color: rgb(212, 185, 185);
+    padding: 5px;
+}
+
+.audio {
+
+    margin-left: 70px;
+
+    width: 210px;
+}
+
+.long-picture {
+
+    width: 200px;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.corona-picture {
+
+    width: 200px;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.corona-video {
+
+
+
+    margin-top: 20px;
+
+    margin-left: 75px;
+}
+
+.facebook-icon {
+
+
+
+
+    margin-left: 75px;
+    color: white;
+
+    background-color: blue;
+    font-size: 20px;
+    padding: 5px;
+    height: 25px;
+    width: 25px;
+
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+
+
+
+}
+
+.footer-img {
+    /* margin: 50px; */
+    width: 91%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+/* footer Part */
+
+.footer-nav {
+    /* margin: 45px; */
+    width: 89%;
+    margin-left: 62px;
+
+}
+
+.footer-paragraph {
+    font-size: 14px;
+    padding: 6px;
+}
+
+.last-img {
+
+    margin-left: 180px;
+    padding: 10px;
 }
